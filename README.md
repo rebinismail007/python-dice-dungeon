@@ -1,6 +1,6 @@
 # Dice Dungeon — Python terminal game
 
-Fight a suspicious sock, a tax-return goblin and an office printer. A small, deliberately ridiculous turn-based adventure using only the Python standard library. **New AI-assisted portfolio example.** This is not recovered source from an older role-playing project.
+Fight a suspicious sock, a tax-return goblin and an office printer. A small, deliberately ridiculous turn-based adventure using only the Python standard library. **New portfolio example.** This is not recovered source from an older role-playing project.
 
 ## Run
 
